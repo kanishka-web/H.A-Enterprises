@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.505fc8ee.css",
+    "main.js": "/static/js/main.10996014.js",
+    "static/js/787.9679f5b0.chunk.js": "/static/js/787.9679f5b0.chunk.js",
+    "static/media/catalogue.pdf": "/static/media/catalogue.9ca5f9c3f3bfd064ff05.pdf",
+    "static/media/transport.jpg": "/static/media/transport.b4441254dc6f7fdef540.jpg",
+    "static/media/AIPL.jpg": "/static/media/AIPL.83e2a8c169b0e273f19f.jpg",
+    "static/media/BDS.png": "/static/media/BDS.6cf9daed118bfde5e40b.png",
+    "static/media/repair.jpg": "/static/media/repair.5a16fe339dfedf0cb4ce.jpg",
+    "static/media/rudra.jpeg": "/static/media/rudra.2b5d287ed8286d8fbf68.jpeg",
+    "static/media/ador.jpg": "/static/media/ador.88af379ee1e09202c560.jpg",
+    "static/media/anil.jpg": "/static/media/anil.491b763f32277580278d.jpg",
+    "static/media/plasma.jpg": "/static/media/plasma.70e50949fc0ca635d836.jpg",
+    "static/media/logo.png": "/static/media/logo.71c851824e0ede246f15.png",
+    "static/media/Hikoki.jpg": "/static/media/Hikoki.2638093153806d96ae87.jpg",
+    "static/media/Boschjpg.jpg": "/static/media/Boschjpg.02a1d3ad4536cc7ab52f.jpg",
+    "index.html": "/index.html",
+    "main.505fc8ee.css.map": "/static/css/main.505fc8ee.css.map",
+    "main.10996014.js.map": "/static/js/main.10996014.js.map",
+    "787.9679f5b0.chunk.js.map": "/static/js/787.9679f5b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.505fc8ee.css",
+    "static/js/main.10996014.js"
+  ]
+}
